@@ -12,3 +12,9 @@ Specifically, there are (3) threee main questions we would like to answer.
 In addition, we weill add visualizations that will hopefully go a long way towards making our analysis as clear as possible to potential stake holders. 
 
 ## Results
+ From our analysis we were able to discover some interesting facts about bike sharing users in New York City. Below are some of the highlights. 
+ 
+ 1) Here we can see the total number of trips complteted for the month of August broken down by user type, (Customer or Subscriber).
+ ![image](https://user-images.githubusercontent.com/93171738/166562835-c8c08beb-1449-42d9-b2d7-214501befa3f.png)
+
+2) Here 
