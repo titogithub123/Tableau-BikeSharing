@@ -24,7 +24,7 @@ In addition, we weill add visualizations that will hopefully go a long way towar
 ![image](https://user-images.githubusercontent.com/93171738/166564801-a0edeb6b-ae1f-4f8e-bb2f-8fa83e102d27.png)
 
 4) Next we have the top 10 start stations broken down by user type. 
-![image](https://user-images.githubusercontent.com/93171738/166563612-dc78fac1-805c-4ebf-a084-d72ca18e70d6.png)
+![image](https://user-images.githubusercontent.com/93171738/166564916-43f7cf08-8b35-453e-a116-a4a3316fecce.png)
 
 5) Here we have the top 10 end stations of where rides were most likely to end. 
 ![image](https://user-images.githubusercontent.com/93171738/166564057-00ae4ee1-65cd-4aec-bfde-c0942aa2a363.png)
