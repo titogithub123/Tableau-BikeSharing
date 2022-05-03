@@ -10,3 +10,5 @@ Specifically, there are (3) threee main questions we would like to answer.
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 In addition, we weill add visualizations that will hopefully go a long way towards making our analysis as clear as possible to potential stake holders. 
+
+## Results
