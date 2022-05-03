@@ -32,4 +32,7 @@ In addition, we weill add visualizations that will hopefully go a long way towar
 6) Next we have the total rides broken down by gender. As you can see from the pie chart, it appears that the majority of riders are male. 
 ![image](https://user-images.githubusercontent.com/93171738/166564243-25b2f333-4756-4b5b-b383-bcffde1a466d.png)
 
-7) 
+7) Lastly, we have the trip numbers count by age. From the graph we can see that 25-30 year olds are the group that is much more likely to take advantage of the bike sharing eco-system. 
+![image](https://user-images.githubusercontent.com/93171738/166565315-0926c319-c715-4c9a-b087-e145cb788b26.png)
+
+## Summary
