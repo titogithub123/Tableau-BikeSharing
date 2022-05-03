@@ -21,7 +21,7 @@ In addition, we weill add visualizations that will hopefully go a long way towar
 ![image](https://user-images.githubusercontent.com/93171738/166563168-bafc73b1-8bc1-4500-a57f-5b6288f23067.png)
 
 3) Here we have a map of all the start stations from where rider began their journeys throughout the day. From the image we can see that the majority of stations are located on the island of Manhattan. 
-![image](https://user-images.githubusercontent.com/93171738/166563445-33bcb4ac-2147-49ed-b6a8-22cd94b6987f.png)
+![image](https://user-images.githubusercontent.com/93171738/166564801-a0edeb6b-ae1f-4f8e-bb2f-8fa83e102d27.png)
 
 4) Next we have the top 10 start stations broken down by user type. 
 ![image](https://user-images.githubusercontent.com/93171738/166563612-dc78fac1-805c-4ebf-a084-d72ca18e70d6.png)
