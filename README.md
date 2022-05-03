@@ -17,4 +17,7 @@ In addition, we weill add visualizations that will hopefully go a long way towar
  1) Here we can see the total number of trips complteted for the month of August broken down by user type, (Customer or Subscriber).
  ![image](https://user-images.githubusercontent.com/93171738/166562835-c8c08beb-1449-42d9-b2d7-214501befa3f.png)
 
-2) Here 
+2) Next, we can see the peak hours riders like to take their bikes out for a spin. As is evident by the graph it appears 7am and 6-7pm are the most popular times.  
+![image](https://user-images.githubusercontent.com/93171738/166563168-bafc73b1-8bc1-4500-a57f-5b6288f23067.png)
+
+3) Here we have, 
