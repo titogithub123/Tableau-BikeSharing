@@ -36,3 +36,14 @@ In addition, we weill add visualizations that will hopefully go a long way towar
 ![image](https://user-images.githubusercontent.com/93171738/166565315-0926c319-c715-4c9a-b087-e145cb788b26.png)
 
 ## Summary
+As we can see from the analysis, a bike sharing program is very popluar in a city like New York because of the population density. There are many places people can start and end a bike ride journery. From our analysis it seems most folks use the bikes to travel relatively short distances. The question that is still left to be answered is whether or not this would be a good idea for a place like, Des Moines, Iowa. 
+
+If possible, it would be nice to further the study the following (2) two points. 
+
+1) We can see here how often riders would be looking for a bike service in Des Monies. From the following image we can see riders sought bikes some 526,424 times. An extremely large number. Of course, this is New York city, would this kind of demand transfer to Des Moines?
+![image](https://user-images.githubusercontent.com/93171738/166568327-b286ded7-0810-4960-884b-9cfe9aaa0169.png)
+
+2) The second question we would need to ask is how often will bikes need to come in for service. In New York it looks like on the high end bikes can last approx. 140 trips before coming in for needed repairs. How would this translate in Des Moines?
+![image](https://user-images.githubusercontent.com/93171738/166568739-0f6a03ec-2d7a-4ded-b070-620b0c748bd8.png)
+
+[link to dashboard] (https://public.tableau.com/app/profile/humberto.sandez/viz/CitibikeStory_16516043856280/CitibikeStory?publish=yes)
